@@ -12,7 +12,7 @@ yaml_structure = {
         "cards": {
             "normal": [],
             "rare": [],
-            "initial_distribution": [],
+            "initial_distribution": []
         }
     }
 }
@@ -35,13 +35,14 @@ section_map = {
 }
 
 for row in reader:
-    rarity_jp, section_jp, count_str, card_name = row
+    rarity_jp, section_jp, count_str, card_name ,format_jp= row
     
     # データを整形
     card_data = {
         "name": card_name,
         "count": int(count_str),
-        "section": section_map.get(section_jp, section_jp) # マッピングになければそのまま
+        "section": section_map.get(section_jp, section_jp), # マッピングになければそのまま
+        "format": format_jp
     }
     
     # 対応するカテゴリのリストに追加

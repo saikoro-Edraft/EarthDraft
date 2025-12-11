@@ -5,875 +5,1166 @@ pool:
     - name: TG ストライカー
       count: 3
       section: main
+      format: OCG
     - name: 百鬼羅刹 特攻ダグ
       count: 1
       section: main
+      format: OCG
     - name: 新鋭の女戦士
       count: 2
       section: main
+      format: OCG
     - name: XX－セイバー フラムナイト
       count: 1
       section: main
+      format: OCG
     - name: ウォークライ・ガトス
       count: 3
       section: main
+      format: OCG
     - name: ウォークライ・フォティア
       count: 1
       section: main
+      format: OCG
     - name: コアキメイル・ベルグザーク
       count: 1
       section: main
+      format: OCG
     - name: 剛鬼スープレックス
       count: 3
       section: main
+      format: OCG
     - name: ゴゴゴゴブリンドバーグ
       count: 1
       section: main
+      format: OCG
     - name: ゴブリン突撃部隊
       count: 1
       section: main
+      format: OCG
     - name: ゴブリンドバーグ
       count: 1
       section: main
+      format: OCG
     - name: 砂塵の騎士
       count: 1
       section: main
+      format: OCG
     - name: ならず者傭兵部隊
       count: 1
       section: main
+      format: OCG
     - name: バトル・サバイバー
       count: 1
       section: main
+      format: OCG
     - name: H・C エクストラ・ソード
       count: 1
       section: main
+      format: OCG
     - name: ブルブレーダー
       count: 1
       section: main
+      format: OCG
     - name: ウォークライ・オーピス
       count: 1
       section: main
+      format: OCG
     - name: ウォークライ・マムード
       count: 2
       section: main
+      format: OCG
     - name: 剛鬼ライジングスコーピオ
       count: 1
       section: main
+      format: OCG
     - name: 暗黒騎士ガイアロード
       count: 1
       section: main
+      format: OCG
     - name: ゴッドオーガス
       count: 1
       section: main
+      format: OCG
     - name: 糾罪巧α’－「orgIA」
       count: 1
       section: main
+      format: OCG
     - name: カードガンナー
       count: 1
       section: main
+      format: OCG
     - name: 工作列車シグナル・レッド
       count: 1
       section: main
+      format: OCG
     - name: 古代の機械戦車兵
       count: 3
       section: main
+      format: OCG
     - name: 古代の機械飛竜
       count: 3
       section: main
+      format: OCG
     - name: 機皇兵グランエル・アイン
       count: 1
       section: main
+      format: OCG
     - name: 豪腕特急トロッコロッコ
       count: 1
       section: main
+      format: OCG
     - name: 爆走軌道フライング・ペガサス
       count: 2
       section: main
+      format: OCG
     - name: マシンナーズ・ギアフレーム
       count: 3
       section: main
+      format: OCG
     - name: マシンナーズ・ソルジャー
       count: 1
       section: main
+      format: OCG
     - name: 機巧狐－宇迦之御魂稲荷
       count: 1
       section: main
+      format: OCG
     - name: マシンナーズ・フォートレス
       count: 1
       section: main
+      format: OCG
     - name: 超重武者ビッグベン－K
       count: 1
       section: main
+      format: OCG
     - name: 古代の機械巨人
       count: 1
       section: main
+      format: OCG
     - name: マシンナーズ・メタルクランチ
       count: 2
       section: main
+      format: OCG
     - name: 超重剣聖ムサ－C
       count: 2
       section: extra
+      format: OCG
     - name: 超重天神マスラ－O
       count: 1
       section: extra
+      format: OCG
     - name: 甲纏竜ガイアーム
       count: 1
       section: extra
+      format: OCG
     - name: ゴヨウ・プレデター
       count: 1
       section: extra
+      format: OCG
     - name: コンバット・ホイール
       count: 1
       section: extra
+      format: OCG
     - name: 超念導体ビヒーマス
       count: 1
       section: extra
+      format: OCG
     - name: 大地の騎士ガイアナイト
       count: 1
       section: extra
+      format: OCG
     - name: 戦刀匠サイバ
       count: 1
       section: extra
+      format: OCG
     - name: X－セイバー ガトムズ
       count: 1
       section: extra
+      format: OCG
     - name: スクラップ・デスデーモン
       count: 2
       section: extra
+      format: OCG
     - name: パワー・ツール・ブレイバー・ドラゴン
       count: 1
       section: extra
+      format: OCG
     - name: 神樹の守護獣－牙王
       count: 1
       section: extra
+      format: OCG
     - name: 総剣司令 ソウザ
       count: 1
       section: extra
+      format: OCG
     - name: 呪雷神ジュラ
       count: 1
       section: extra
+      format: OCG
     - name: 魔救の探索者
       count: 3
       section: main
+      format: OCG
     - name: メタモルポット
       count: 1
       section: main
+      format: OCG
     - name: アショカ・ピラー
       count: 1
       section: main
+      format: OCG
     - name: カオスポッド
       count: 1
       section: main
+      format: OCG
     - name: 岩石の番兵
       count: 1
       section: main
+      format: OCG
     - name: 強欲なポッド
       count: 1
       section: main
+      format: OCG
     - name: N・グラン・モール
       count: 1
       section: main
+      format: OCG
     - name: ブロック・ゴーレム
       count: 1
       section: main
+      format: OCG
     - name: 天岩戸
       count: 1
       section: main
+      format: OCG
     - name: 岩の精霊 タイタン
       count: 2
       section: main
+      format: OCG
     - name: ギガンテス
       count: 1
       section: main
+      format: OCG
     - name: コアキメイル・ウォール
       count: 1
       section: main
+      format: OCG
     - name: コアキメイル・オーバードーズ
       count: 1
       section: main
+      format: OCG
     - name: コアキメイル・ガーディアン
       count: 1
       section: main
+      format: OCG
     - name: コアキメイル・サプライヤー
       count: 1
       section: main
+      format: OCG
     - name: コアキメイル・サンドマン
       count: 1
       section: main
+      format: OCG
     - name: ゴゴゴゴーレム
       count: 1
       section: main
+      format: OCG
     - name: ゴゴゴジャイアント
       count: 3
       section: main
+      format: OCG
     - name: タックルセイダー
       count: 1
       section: main
+      format: OCG
     - name: トラミッド・マスター
       count: 1
       section: main
+      format: OCG
     - name: フォッシル・ダイナ パキケファロ
       count: 1
       section: main
+      format: OCG
     - name: 磁石の戦士Ω＋
       count: 1
       section: main
+      format: OCG
     - name: リバイバルゴーレム
       count: 1
       section: main
+      format: OCG
     - name: 地球巨人 ガイア・プレート
       count: 1
       section: main
+      format: OCG
     - name: EMチェーンジラフ
       count: 1
       section: main
+      format: OCG
     - name: ゼンマイニャンコ
       count: 1
       section: main
+      format: OCG
     - name: X－セイバー エアベルン
       count: 3
       section: main
+      format: OCG
     - name: 極星獣タングリスニ
       count: 1
       section: main
+      format: OCG
     - name: マドルチェ・ホーットケーキ
       count: 3
       section: main
+      format: OCG
     - name: マドルチェ・メェプル
       count: 1
       section: main
+      format: OCG
     - name: 巨大ネズミ
       count: 3
       section: main
+      format: OCG
     - name: スクラップ・キマイラ
       count: 3
       section: main
+      format: OCG
     - name: スクラップ・ビースト
       count: 2
       section: main
+      format: OCG
     - name: TG ラッシュ・ライノ
       count: 2
       section: main
+      format: OCG
     - name: レスキューキャット
       count: 2
       section: main
+      format: OCG
     - name: 百戦王 ベヒーモス
       count: 1
       section: main
+      format: OCG
     - name: 銀嶺の巨神
       count: 2
       section: extra
+      format: OCG
     - name: 電脳堺甲－甲々
       count: 1
       section: extra
+      format: OCG
     - name: ガガガガンマン
       count: 1
       section: extra
+      format: OCG
     - name: ガガガザムライ
       count: 1
       section: extra
+      format: OCG
     - name: カチコチドラゴン
       count: 1
       section: extra
+      format: OCG
     - name: ギアギガント X
       count: 1
       section: extra
+      format: OCG
     - name: ジェムナイト・パール
       count: 1
       section: extra
+      format: OCG
     - name: 恐牙狼 ダイヤウルフ
       count: 1
       section: extra
+      format: OCG
     - name: No.52 ダイヤモンド・クラブ・キング
       count: 1
       section: extra
+      format: OCG
     - name: No.55 ゴゴゴゴライアス
       count: 1
       section: extra
+      format: OCG
     - name: No.82 ハートランドラコ
       count: 1
       section: extra
+      format: OCG
     - name: 塊斬機ラプラシアン
       count: 1
       section: extra
+      format: OCG
     - name: ジェネティック・ワーウルフ
       count: 1
       section: main
+      format: OCG
     - name: スクラップ・ゴブリン
       count: 2
       section: main
+      format: OCG
     - name: K９－ØØ号 ルプス
       count: 1
       section: main
+      format: OCG
     - name: 神獣王バルバロス
       count: 1
       section: main
+      format: OCG
     - name: 地霊神グランソイル
       count: 1
       section: main
+      format: OCG
     - name: サイコウィールダー
       count: 3
       section: main
+      format: OCG
     - name: X－セイバー ブルノ
       count: 2
       section: main
+      format: OCG
     - name: お注射天使リリー
       count: 1
       section: main
+      format: OCG
     - name: 地霊使いアウス
       count: 1
       section: main
+      format: OCG
     - name: マスマティシャン
       count: 1
       section: main
+      format: OCG
     - name: マドルチェ・マジョレーヌ
       count: 2
       section: main
+      format: OCG
     - name: クローラー・スパイン
       count: 1
       section: main
+      format: OCG
     - name: G戦隊 シャインブラック
       count: 1
       section: main
+      format: OCG
     - name: キノの蟲惑魔
       count: 1
       section: main
+      format: OCG
     - name: ランカの蟲惑魔
       count: 2
       section: main
+      format: OCG
     - name: サブテラーの射手
       count: 3
       section: main
+      format: OCG
     - name: マドルチェ・エンジェリー
       count: 3
       section: main
+      format: OCG
     - name: マドルチェ・プディンセス
       count: 2
       section: main
+      format: OCG
     - name: 時械神カミオン
       count: 1
       section: main
+      format: OCG
     - name: エンジェル・トランペッター
       count: 2
       section: main
+      format: OCG
     - name: グローアップ・バルブ
       count: 2
       section: main
+      format: OCG
     - name: ダンディライオン
       count: 1
       section: main
+      format: OCG
     - name: ジーナの蟲惑魔
       count: 1
       section: main
+      format: OCG
     - name: ティオの蟲惑魔
       count: 2
       section: main
+      format: OCG
     - name: ジャイアント・タコーン
       count: 1
       section: main
+      format: OCG
     - name: ドットスケーパー
       count: 1
       section: main
+      format: OCG
     - name: アンチエイリアン
       count: 1
       section: main
+      format: OCG
     - name: ランチャー・コマンダー
       count: 1
       section: main
+      format: OCG
     - name: リンクスレイヤー
       count: 1
       section: main
+      format: OCG
     - name: ゾンビーナ
       count: 1
       section: main
+      format: OCG
     - name: 執愛のウヴァループ
       count: 1
       section: main
+      format: OCG
     - name: ジャッジメント・オブ・アヌビス
       count: 1
       section: main
+      format: OCG
     - name: レプティアの武者騎兵
       count: 1
       section: main
+      format: OCG
     - name: ジャイアント・レックス
       count: 1
       section: main
+      format: OCG
     - name: 岩竜ベアロック
       count: 1
       section: main
+      format: OCG
     - name: カメンレオン
       count: 1
       section: main
+      format: OCG
     - name: サブテラーの導師
       count: 2
       section: main
+      format: OCG
     - name: サブテラーマリス・グライオース
       count: 1
       section: main
+      format: OCG
     - name: 空牙団の懐剣 ドナ
       count: 1
       section: extra
+      format: OCG
     - name: トロイメア・ケルベロス
       count: 1
       section: extra
+      format: OCG
     - name: ミセス・レディエント
       count: 1
       section: extra
+      format: OCG
     - name: アティプスの蟲惑魔
       count: 1
       section: extra
+      format: OCG
     - name: 電影の騎士ガイアセイバー
       count: 1
       section: extra
+      format: OCG
     - name: ミニャーマドルチェ・ニャカロン
       count: 1
       section: extra
+      format: OCG
     - name: 機動石器ドグラード
       count: 1
       section: extra
+      format: OCG
     - name: アロメルスの蟲惑魔
       count: 1
       section: extra
+      format: OCG
     - name: 神羊樹バロメット
       count: 1
       section: extra
+      format: OCG
     - name: 静寂のサイコソーサレス
       count: 1
       section: extra
+      format: OCG
     - name: アラメシアの儀
       count: 1
       section: main
+      format: OCG
     - name: 強制転移
       count: 2
       section: main
+      format: OCG
     - name: 強欲で謙虚な壺
       count: 2
       section: main
+      format: OCG
     - name: 百鬼羅刹大参上
       count: 1
       section: main
+      format: OCG
     - name: 強欲で貪欲な壺
       count: 1
       section: main
+      format: OCG
     - name: 地砕き
       count: 1
       section: main
+      format: OCG
     - name: 閃刀術式－アフターバーナー
       count: 1
       section: main
+      format: OCG
     - name: ソウルテイカー
       count: 1
       section: main
+      format: OCG
     - name: 地割れ
       count: 1
       section: main
+      format: OCG
     - name: 増援
       count: 2
       section: main
+      format: OCG
     - name: The Legend of Tickets
       count: 1
       section: main
+      format: OCG
     - name: 同胞の絆
       count: 1
       section: main
+      format: OCG
     - name: 咎を擁く魔瞳
       count: 1
       section: main
+      format: OCG
     - name: 貪欲で無欲な壺
       count: 1
       section: main
+      format: OCG
     - name: 貪欲な壺
       count: 1
       section: main
+      format: OCG
     - name: ハリケーン
       count: 1
       section: main
+      format: OCG
     - name: 反逆の罪宝－スネークアイ
       count: 1
       section: main
+      format: OCG
     - name: 抹殺の使徒
       count: 1
       section: main
+      format: OCG
     - name: ライトニング・ボルテックス
       count: 1
       section: main
+      format: OCG
     - name: リターン・オブ・ザ・デュエリスト
       count: 1
       section: main
+      format: OCG
     - name: エネミーコントローラー
       count: 1
       section: main
+      format: OCG
     - name: 緊急テレポート
       count: 2
       section: main
+      format: OCG
     - name: 禁じられた聖槍
       count: 3
       section: main
+      format: OCG
     - name: 禁じられた聖杯
       count: 1
       section: main
+      format: OCG
     - name: 犬賞金
       count: 1
       section: main
+      format: OCG
     - name: サイクロン
       count: 3
       section: main
+      format: OCG
     - name: 収縮
       count: 1
       section: main
+      format: OCG
     - name: 星遺物を巡る戦い
       count: 1
       section: main
+      format: OCG
     - name: 騒動
       count: 1
       section: main
+      format: OCG
     - name: 猪突猛進
       count: 1
       section: main
+      format: OCG
     - name: 月の書
       count: 1
       section: main
+      format: OCG
     - name: 超獸の咆哮
       count: 1
       section: main
+      format: OCG
     - name: 突進
       count: 1
       section: main
+      format: OCG
     - name: 武装再生
       count: 1
       section: main
+      format: OCG
     - name: 亜空間物質回送装置
       count: 1
       section: main
+      format: OCG
     - name: 強欲なカケラ
       count: 1
       section: main
+      format: OCG
     - name: 焔聖剣－オートクレール
       count: 1
       section: main
+      format: OCG
     - name: 自律行動ユニット
       count: 1
       section: main
+      format: OCG
     - name: 団結の力
       count: 1
       section: main
+      format: OCG
     - name: トラップ・ギャザー
       count: 1
       section: main
+      format: OCG
     - name: 魔界の足枷
       count: 1
       section: main
+      format: OCG
     - name: 脆刃の剣
       count: 1
       section: main
+      format: OCG
     - name: 夢迷枕パラソムニア
       count: 1
       section: main
+      format: OCG
     - name: リビング・フォッシル
       count: 1
       section: main
+      format: OCG
     - name: 岩投げエリア
       count: 1
       section: main
+      format: OCG
     - name: チキンレース
       count: 1
       section: main
+      format: OCG
     - name: 闇の護封剣
       count: 1
       section: main
+      format: OCG
     - name: メイドの土産
       count: 1
       section: main
+      format: RUSH
     - name: 因果切断
       count: 1
       section: main
+      format: OCG
     - name: 現世離レ
       count: 1
       section: main
+      format: OCG
     - name: 落とし穴
       count: 2
       section: main
+      format: OCG
     - name: 幽世離レ
       count: 1
       section: main
+      format: OCG
     - name: 強制脱出装置
       count: 2
       section: main
+      format: OCG
     - name: 狂惑の落とし穴
       count: 1
       section: main
+      format: OCG
     - name: 凶導の聖獣
       count: 1
       section: main
+      format: OCG
     - name: 原石の号咆
       count: 1
       section: main
+      format: OCG
     - name: 狡猾な落とし穴
       count: 1
       section: main
+      format: OCG
     - name: 刺し違GUY
       count: 1
       section: main
+      format: OCG
     - name: 砂塵の大竜巻
       count: 1
       section: main
+      format: OCG
     - name: 運命の抱く爆弾
       count: 1
       section: main
+      format: OCG
     - name: サンダー・ブレイク
       count: 1
       section: main
+      format: OCG
     - name: 次元幽閉
       count: 1
       section: main
+      format: OCG
     - name: 星宵竜転
       count: 1
       section: main
+      format: OCG
     - name: セットアッパー
       count: 1
       section: main
+      format: OCG
     - name: 騎士魔防陣
       count: 1
       section: main
+      format: OCG
     - name: 想定GUYS
       count: 1
       section: main
+      format: OCG
     - name: 台貫計量
       count: 1
       section: main
+      format: OCG
     - name: 断絶の落とし穴
       count: 1
       section: main
+      format: OCG
     - name: 天地返し
       count: 1
       section: main
+      format: OCG
     - name: ドラグマ・パニッシュメント
       count: 1
       section: main
+      format: OCG
     - name: トランザクション・ロールバック
       count: 1
       section: main
+      format: OCG
     - name: 貪欲な瓶
       count: 1
       section: main
+      format: OCG
     - name: バトル・スタン・ソニック
       count: 2
       section: main
+      format: OCG
     - name: 万能地雷グレイモヤ
       count: 1
       section: main
+      format: OCG
     - name: ピンポイント・ガード
       count: 1
       section: main
+      format: OCG
     - name: ホールティアの蟲惑魔
       count: 1
       section: main
+      format: OCG
     - name: 魔法の筒
       count: 1
       section: main
+      format: OCG
     - name: 炸裂装甲
       count: 2
       section: main
+      format: OCG
     - name: レベル・レジストウォール
       count: 1
       section: main
+      format: OCG
     - name: 強化蘇生
       count: 2
       section: main
+      format: OCG
     - name: 鏡像のスワンプマン
       count: 1
       section: main
+      format: OCG
     - name: デモンズ・チェーン
       count: 1
       section: main
+      format: OCG
     - name: ピース・オブ・スタチュー
       count: 1
       section: main
+      format: OCG
     - name: メタモル・クレイ・フォートレス
       count: 1
       section: main
+      format: OCG
     - name: リビングデッドの呼び声
       count: 2
       section: main
+      format: OCG
     - name: 量子猫
       count: 1
       section: main
+      format: OCG
     - name: ギャクタン
       count: 1
       section: main
+      format: OCG
     - name: 昇天の黒角笛
       count: 1
       section: main
+      format: OCG
     - name: 天罰
       count: 1
       section: main
+      format: OCG
     - name: 魔宮の賄賂
       count: 1
       section: main
+      format: OCG
     rare:
     - name: コスモス姫のご就寝
       count: 1
       section: main
+      format: RUSH
     - name: 花と野原の春化精
       count: 1
       section: main
+      format: OCG
     - name: 山と雪解の春化精
       count: 1
       section: main
+      format: OCG
     - name: 森と目覚の春化精
       count: 1
       section: main
+      format: OCG
     - name: 春化精の女神 ヴェーラ
       count: 1
       section: main
+      format: OCG
     - name: ウォークライ・ウェント
       count: 1
       section: main
+      format: OCG
     - name: SPYRAL−ダンディ
       count: 1
       section: main
+      format: OCG
     - name: 剛鬼マシン・スープレックス
       count: 2
       section: main
+      format: OCG
     - name: H・C サウザンド・ブレード
       count: 1
       section: main
+      format: OCG
     - name: 剣神官ムドラ
       count: 1
       section: main
+      format: OCG
     - name: 巌征竜−レドックス
       count: 1
       section: main
+      format: OCG
     - name: セリオンズ“キング”レギュラス
       count: 1
       section: main
+      format: OCG
     - name: 楽天禍カルクラグラ
       count: 1
       section: main
+      format: OCG
     - name: ジャイアント・メサイア
       count: 1
       section: main
+      format: OCG
     - name: トリオンの蟲惑魔
       count: 3
       section: main
+      format: OCG
     - name: スクラップ・ラプター
       count: 2
       section: main
+      format: OCG
     - name: 原石竜アナザー・ベリル
       count: 1
       section: main
+      format: OCG
     - name: ウォークライ・バシレオス
       count: 1
       section: main
+      format: OCG
     - name: ペロペロケルペロス
       count: 1
       section: main
+      format: OCG
     - name: サブテラーマリス・リグリアード
       count: 1
       section: main
+      format: OCG
     - name: 千年の眠りから覚めし原人
       count: 1
       section: main
+      format: OCG
     - name: 恐巄竜華－㟴巴
       count: 1
       section: main
+      format: OCG
     - name: 蹴神−VARefar
       count: 1
       section: main
+      format: OCG
     - name: 心変わり
       count: 1
       section: main
+      format: OCG
     - name: 強欲な壺
       count: 1
       section: main
+      format: OCG
     - name: 死者蘇生
       count: 1
       section: main
+      format: OCG
     - name: 精神操作
       count: 1
       section: main
+      format: OCG
     - name: 天使の施し
       count: 2
       section: main
+      format: OCG
     - name: ブラック・ホール
       count: 1
       section: main
+      format: OCG
     - name: 禁じられた聖冠
       count: 1
       section: main
+      format: OCG
     - name: 原石の鳴獰
       count: 1
       section: main
+      format: OCG
     - name: マジックカード「死者蘇生」
       count: 1
       section: main
+      format: OCG
     - name: 共界神淵体
       count: 1
       section: main
+      format: OCG
     - name: 早すぎた埋葬
       count: 1
       section: main
+      format: OCG
     - name: 神の宣告
       count: 1
       section: main
+      format: OCG
     - name: 神の警告
       count: 1
       section: main
+      format: OCG
     - name: 激流葬
       count: 2
       section: main
+      format: OCG
     - name: 聖なるバリア −ミラーフォース−
       count: 1
       section: main
+      format: OCG
     - name: 業炎のバリア −ファイヤー・フォース−
       count: 1
       section: main
+      format: OCG
     - name: 天龍雪獄
       count: 1
       section: main
+      format: OCG
     - name: 心太砲式
       count: 1
       section: main
+      format: OCG
     - name: 風魔の波動
       count: 1
       section: main
+      format: OCG
     - name: 奈落の落とし穴
       count: 2
       section: main
+      format: OCG
     - name: ロケットハンド
       count: 1
       section: main
+      format: OCG
     - name: 王宮の弾圧
       count: 1
       section: main
+      format: OCG
     - name: 闇の増産工場
       count: 1
       section: main
+      format: OCG
     - name: リターナブル瓶
       count: 1
       section: main
+      format: OCG
     - name: ナチュル・ビースト
       count: 1
       section: extra
+      format: OCG
     - name: ゴヨウ・ガーディアン
       count: 1
       section: extra
+      format: OCG
     - name: ナチュル・パルキオン
       count: 1
       section: extra
+      format: OCG
     - name: 御影志士
       count: 1
       section: extra
+      format: OCG
     - name: シトリスの蟲惑魔
       count: 1
       section: extra
+      format: OCG
     - name: 旋壊のヴェスペネイト
       count: 1
       section: extra
+      format: OCG
     initial_distribution:
     - name: 大嵐
       count: 6
       section: main
+      format: OCG
     - name: スクラップ・ドラゴン
       count: 6
       section: main
+      format: OCG
