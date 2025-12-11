@@ -1,0 +1,879 @@
+pool:
+  version: '7.34'
+  cards:
+    normal:
+    - name: TG ストライカー
+      count: 3
+      section: main
+    - name: 百鬼羅刹 特攻ダグ
+      count: 1
+      section: main
+    - name: 新鋭の女戦士
+      count: 2
+      section: main
+    - name: XX－セイバー フラムナイト
+      count: 1
+      section: main
+    - name: ウォークライ・ガトス
+      count: 3
+      section: main
+    - name: ウォークライ・フォティア
+      count: 1
+      section: main
+    - name: コアキメイル・ベルグザーク
+      count: 1
+      section: main
+    - name: 剛鬼スープレックス
+      count: 3
+      section: main
+    - name: ゴゴゴゴブリンドバーグ
+      count: 1
+      section: main
+    - name: ゴブリン突撃部隊
+      count: 1
+      section: main
+    - name: ゴブリンドバーグ
+      count: 1
+      section: main
+    - name: 砂塵の騎士
+      count: 1
+      section: main
+    - name: ならず者傭兵部隊
+      count: 1
+      section: main
+    - name: バトル・サバイバー
+      count: 1
+      section: main
+    - name: H・C エクストラ・ソード
+      count: 1
+      section: main
+    - name: ブルブレーダー
+      count: 1
+      section: main
+    - name: ウォークライ・オーピス
+      count: 1
+      section: main
+    - name: ウォークライ・マムード
+      count: 2
+      section: main
+    - name: 剛鬼ライジングスコーピオ
+      count: 1
+      section: main
+    - name: 暗黒騎士ガイアロード
+      count: 1
+      section: main
+    - name: ゴッドオーガス
+      count: 1
+      section: main
+    - name: 糾罪巧α’－「orgIA」
+      count: 1
+      section: main
+    - name: カードガンナー
+      count: 1
+      section: main
+    - name: 工作列車シグナル・レッド
+      count: 1
+      section: main
+    - name: 古代の機械戦車兵
+      count: 3
+      section: main
+    - name: 古代の機械飛竜
+      count: 3
+      section: main
+    - name: 機皇兵グランエル・アイン
+      count: 1
+      section: main
+    - name: 豪腕特急トロッコロッコ
+      count: 1
+      section: main
+    - name: 爆走軌道フライング・ペガサス
+      count: 2
+      section: main
+    - name: マシンナーズ・ギアフレーム
+      count: 3
+      section: main
+    - name: マシンナーズ・ソルジャー
+      count: 1
+      section: main
+    - name: 機巧狐－宇迦之御魂稲荷
+      count: 1
+      section: main
+    - name: マシンナーズ・フォートレス
+      count: 1
+      section: main
+    - name: 超重武者ビッグベン－K
+      count: 1
+      section: main
+    - name: 古代の機械巨人
+      count: 1
+      section: main
+    - name: マシンナーズ・メタルクランチ
+      count: 2
+      section: main
+    - name: 超重剣聖ムサ－C
+      count: 2
+      section: extra
+    - name: 超重天神マスラ－O
+      count: 1
+      section: extra
+    - name: 甲纏竜ガイアーム
+      count: 1
+      section: extra
+    - name: ゴヨウ・プレデター
+      count: 1
+      section: extra
+    - name: コンバット・ホイール
+      count: 1
+      section: extra
+    - name: 超念導体ビヒーマス
+      count: 1
+      section: extra
+    - name: 大地の騎士ガイアナイト
+      count: 1
+      section: extra
+    - name: 戦刀匠サイバ
+      count: 1
+      section: extra
+    - name: X－セイバー ガトムズ
+      count: 1
+      section: extra
+    - name: スクラップ・デスデーモン
+      count: 2
+      section: extra
+    - name: パワー・ツール・ブレイバー・ドラゴン
+      count: 1
+      section: extra
+    - name: 神樹の守護獣－牙王
+      count: 1
+      section: extra
+    - name: 総剣司令 ソウザ
+      count: 1
+      section: extra
+    - name: 呪雷神ジュラ
+      count: 1
+      section: extra
+    - name: 魔救の探索者
+      count: 3
+      section: main
+    - name: メタモルポット
+      count: 1
+      section: main
+    - name: アショカ・ピラー
+      count: 1
+      section: main
+    - name: カオスポッド
+      count: 1
+      section: main
+    - name: 岩石の番兵
+      count: 1
+      section: main
+    - name: 強欲なポッド
+      count: 1
+      section: main
+    - name: N・グラン・モール
+      count: 1
+      section: main
+    - name: ブロック・ゴーレム
+      count: 1
+      section: main
+    - name: 天岩戸
+      count: 1
+      section: main
+    - name: 岩の精霊 タイタン
+      count: 2
+      section: main
+    - name: ギガンテス
+      count: 1
+      section: main
+    - name: コアキメイル・ウォール
+      count: 1
+      section: main
+    - name: コアキメイル・オーバードーズ
+      count: 1
+      section: main
+    - name: コアキメイル・ガーディアン
+      count: 1
+      section: main
+    - name: コアキメイル・サプライヤー
+      count: 1
+      section: main
+    - name: コアキメイル・サンドマン
+      count: 1
+      section: main
+    - name: ゴゴゴゴーレム
+      count: 1
+      section: main
+    - name: ゴゴゴジャイアント
+      count: 3
+      section: main
+    - name: タックルセイダー
+      count: 1
+      section: main
+    - name: トラミッド・マスター
+      count: 1
+      section: main
+    - name: フォッシル・ダイナ パキケファロ
+      count: 1
+      section: main
+    - name: 磁石の戦士Ω＋
+      count: 1
+      section: main
+    - name: リバイバルゴーレム
+      count: 1
+      section: main
+    - name: 地球巨人 ガイア・プレート
+      count: 1
+      section: main
+    - name: EMチェーンジラフ
+      count: 1
+      section: main
+    - name: ゼンマイニャンコ
+      count: 1
+      section: main
+    - name: X－セイバー エアベルン
+      count: 3
+      section: main
+    - name: 極星獣タングリスニ
+      count: 1
+      section: main
+    - name: マドルチェ・ホーットケーキ
+      count: 3
+      section: main
+    - name: マドルチェ・メェプル
+      count: 1
+      section: main
+    - name: 巨大ネズミ
+      count: 3
+      section: main
+    - name: スクラップ・キマイラ
+      count: 3
+      section: main
+    - name: スクラップ・ビースト
+      count: 2
+      section: main
+    - name: TG ラッシュ・ライノ
+      count: 2
+      section: main
+    - name: レスキューキャット
+      count: 2
+      section: main
+    - name: 百戦王 ベヒーモス
+      count: 1
+      section: main
+    - name: 銀嶺の巨神
+      count: 2
+      section: extra
+    - name: 電脳堺甲－甲々
+      count: 1
+      section: extra
+    - name: ガガガガンマン
+      count: 1
+      section: extra
+    - name: ガガガザムライ
+      count: 1
+      section: extra
+    - name: カチコチドラゴン
+      count: 1
+      section: extra
+    - name: ギアギガント X
+      count: 1
+      section: extra
+    - name: ジェムナイト・パール
+      count: 1
+      section: extra
+    - name: 恐牙狼 ダイヤウルフ
+      count: 1
+      section: extra
+    - name: No.52 ダイヤモンド・クラブ・キング
+      count: 1
+      section: extra
+    - name: No.55 ゴゴゴゴライアス
+      count: 1
+      section: extra
+    - name: No.82 ハートランドラコ
+      count: 1
+      section: extra
+    - name: 塊斬機ラプラシアン
+      count: 1
+      section: extra
+    - name: ジェネティック・ワーウルフ
+      count: 1
+      section: main
+    - name: スクラップ・ゴブリン
+      count: 2
+      section: main
+    - name: K９－ØØ号 ルプス
+      count: 1
+      section: main
+    - name: 神獣王バルバロス
+      count: 1
+      section: main
+    - name: 地霊神グランソイル
+      count: 1
+      section: main
+    - name: サイコウィールダー
+      count: 3
+      section: main
+    - name: X－セイバー ブルノ
+      count: 2
+      section: main
+    - name: お注射天使リリー
+      count: 1
+      section: main
+    - name: 地霊使いアウス
+      count: 1
+      section: main
+    - name: マスマティシャン
+      count: 1
+      section: main
+    - name: マドルチェ・マジョレーヌ
+      count: 2
+      section: main
+    - name: クローラー・スパイン
+      count: 1
+      section: main
+    - name: G戦隊 シャインブラック
+      count: 1
+      section: main
+    - name: キノの蟲惑魔
+      count: 1
+      section: main
+    - name: ランカの蟲惑魔
+      count: 2
+      section: main
+    - name: サブテラーの射手
+      count: 3
+      section: main
+    - name: マドルチェ・エンジェリー
+      count: 3
+      section: main
+    - name: マドルチェ・プディンセス
+      count: 2
+      section: main
+    - name: 時械神カミオン
+      count: 1
+      section: main
+    - name: エンジェル・トランペッター
+      count: 2
+      section: main
+    - name: グローアップ・バルブ
+      count: 2
+      section: main
+    - name: ダンディライオン
+      count: 1
+      section: main
+    - name: ジーナの蟲惑魔
+      count: 1
+      section: main
+    - name: ティオの蟲惑魔
+      count: 2
+      section: main
+    - name: ジャイアント・タコーン
+      count: 1
+      section: main
+    - name: ドットスケーパー
+      count: 1
+      section: main
+    - name: アンチエイリアン
+      count: 1
+      section: main
+    - name: ランチャー・コマンダー
+      count: 1
+      section: main
+    - name: リンクスレイヤー
+      count: 1
+      section: main
+    - name: ゾンビーナ
+      count: 1
+      section: main
+    - name: 執愛のウヴァループ
+      count: 1
+      section: main
+    - name: ジャッジメント・オブ・アヌビス
+      count: 1
+      section: main
+    - name: レプティアの武者騎兵
+      count: 1
+      section: main
+    - name: ジャイアント・レックス
+      count: 1
+      section: main
+    - name: 岩竜ベアロック
+      count: 1
+      section: main
+    - name: カメンレオン
+      count: 1
+      section: main
+    - name: サブテラーの導師
+      count: 2
+      section: main
+    - name: サブテラーマリス・グライオース
+      count: 1
+      section: main
+    - name: 空牙団の懐剣 ドナ
+      count: 1
+      section: extra
+    - name: トロイメア・ケルベロス
+      count: 1
+      section: extra
+    - name: ミセス・レディエント
+      count: 1
+      section: extra
+    - name: アティプスの蟲惑魔
+      count: 1
+      section: extra
+    - name: 電影の騎士ガイアセイバー
+      count: 1
+      section: extra
+    - name: ミニャーマドルチェ・ニャカロン
+      count: 1
+      section: extra
+    - name: 機動石器ドグラード
+      count: 1
+      section: extra
+    - name: アロメルスの蟲惑魔
+      count: 1
+      section: extra
+    - name: 神羊樹バロメット
+      count: 1
+      section: extra
+    - name: 静寂のサイコソーサレス
+      count: 1
+      section: extra
+    - name: アラメシアの儀
+      count: 1
+      section: main
+    - name: 強制転移
+      count: 2
+      section: main
+    - name: 強欲で謙虚な壺
+      count: 2
+      section: main
+    - name: 百鬼羅刹大参上
+      count: 1
+      section: main
+    - name: 強欲で貪欲な壺
+      count: 1
+      section: main
+    - name: 地砕き
+      count: 1
+      section: main
+    - name: 閃刀術式－アフターバーナー
+      count: 1
+      section: main
+    - name: ソウルテイカー
+      count: 1
+      section: main
+    - name: 地割れ
+      count: 1
+      section: main
+    - name: 増援
+      count: 2
+      section: main
+    - name: The Legend of Tickets
+      count: 1
+      section: main
+    - name: 同胞の絆
+      count: 1
+      section: main
+    - name: 咎を擁く魔瞳
+      count: 1
+      section: main
+    - name: 貪欲で無欲な壺
+      count: 1
+      section: main
+    - name: 貪欲な壺
+      count: 1
+      section: main
+    - name: ハリケーン
+      count: 1
+      section: main
+    - name: 反逆の罪宝－スネークアイ
+      count: 1
+      section: main
+    - name: 抹殺の使徒
+      count: 1
+      section: main
+    - name: ライトニング・ボルテックス
+      count: 1
+      section: main
+    - name: リターン・オブ・ザ・デュエリスト
+      count: 1
+      section: main
+    - name: エネミーコントローラー
+      count: 1
+      section: main
+    - name: 緊急テレポート
+      count: 2
+      section: main
+    - name: 禁じられた聖槍
+      count: 3
+      section: main
+    - name: 禁じられた聖杯
+      count: 1
+      section: main
+    - name: 犬賞金
+      count: 1
+      section: main
+    - name: サイクロン
+      count: 3
+      section: main
+    - name: 収縮
+      count: 1
+      section: main
+    - name: 星遺物を巡る戦い
+      count: 1
+      section: main
+    - name: 騒動
+      count: 1
+      section: main
+    - name: 猪突猛進
+      count: 1
+      section: main
+    - name: 月の書
+      count: 1
+      section: main
+    - name: 超獸の咆哮
+      count: 1
+      section: main
+    - name: 突進
+      count: 1
+      section: main
+    - name: 武装再生
+      count: 1
+      section: main
+    - name: 亜空間物質回送装置
+      count: 1
+      section: main
+    - name: 強欲なカケラ
+      count: 1
+      section: main
+    - name: 焔聖剣－オートクレール
+      count: 1
+      section: main
+    - name: 自律行動ユニット
+      count: 1
+      section: main
+    - name: 団結の力
+      count: 1
+      section: main
+    - name: トラップ・ギャザー
+      count: 1
+      section: main
+    - name: 魔界の足枷
+      count: 1
+      section: main
+    - name: 脆刃の剣
+      count: 1
+      section: main
+    - name: 夢迷枕パラソムニア
+      count: 1
+      section: main
+    - name: リビング・フォッシル
+      count: 1
+      section: main
+    - name: 岩投げエリア
+      count: 1
+      section: main
+    - name: チキンレース
+      count: 1
+      section: main
+    - name: 闇の護封剣
+      count: 1
+      section: main
+    - name: メイドの土産
+      count: 1
+      section: main
+    - name: 因果切断
+      count: 1
+      section: main
+    - name: 現世離レ
+      count: 1
+      section: main
+    - name: 落とし穴
+      count: 2
+      section: main
+    - name: 幽世離レ
+      count: 1
+      section: main
+    - name: 強制脱出装置
+      count: 2
+      section: main
+    - name: 狂惑の落とし穴
+      count: 1
+      section: main
+    - name: 凶導の聖獣
+      count: 1
+      section: main
+    - name: 原石の号咆
+      count: 1
+      section: main
+    - name: 狡猾な落とし穴
+      count: 1
+      section: main
+    - name: 刺し違GUY
+      count: 1
+      section: main
+    - name: 砂塵の大竜巻
+      count: 1
+      section: main
+    - name: 運命の抱く爆弾
+      count: 1
+      section: main
+    - name: サンダー・ブレイク
+      count: 1
+      section: main
+    - name: 次元幽閉
+      count: 1
+      section: main
+    - name: 星宵竜転
+      count: 1
+      section: main
+    - name: セットアッパー
+      count: 1
+      section: main
+    - name: 騎士魔防陣
+      count: 1
+      section: main
+    - name: 想定GUYS
+      count: 1
+      section: main
+    - name: 台貫計量
+      count: 1
+      section: main
+    - name: 断絶の落とし穴
+      count: 1
+      section: main
+    - name: 天地返し
+      count: 1
+      section: main
+    - name: ドラグマ・パニッシュメント
+      count: 1
+      section: main
+    - name: トランザクション・ロールバック
+      count: 1
+      section: main
+    - name: 貪欲な瓶
+      count: 1
+      section: main
+    - name: バトル・スタン・ソニック
+      count: 2
+      section: main
+    - name: 万能地雷グレイモヤ
+      count: 1
+      section: main
+    - name: ピンポイント・ガード
+      count: 1
+      section: main
+    - name: ホールティアの蟲惑魔
+      count: 1
+      section: main
+    - name: 魔法の筒
+      count: 1
+      section: main
+    - name: 炸裂装甲
+      count: 2
+      section: main
+    - name: レベル・レジストウォール
+      count: 1
+      section: main
+    - name: 強化蘇生
+      count: 2
+      section: main
+    - name: 鏡像のスワンプマン
+      count: 1
+      section: main
+    - name: デモンズ・チェーン
+      count: 1
+      section: main
+    - name: ピース・オブ・スタチュー
+      count: 1
+      section: main
+    - name: メタモル・クレイ・フォートレス
+      count: 1
+      section: main
+    - name: リビングデッドの呼び声
+      count: 2
+      section: main
+    - name: 量子猫
+      count: 1
+      section: main
+    - name: ギャクタン
+      count: 1
+      section: main
+    - name: 昇天の黒角笛
+      count: 1
+      section: main
+    - name: 天罰
+      count: 1
+      section: main
+    - name: 魔宮の賄賂
+      count: 1
+      section: main
+    rare:
+    - name: アイツ
+      count: 1
+      section: main
+    - name: 花と野原の春化精
+      count: 1
+      section: main
+    - name: 山と雪解の春化精
+      count: 1
+      section: main
+    - name: 森と目覚の春化精
+      count: 1
+      section: main
+    - name: 春化精の女神 ヴェーラ
+      count: 1
+      section: main
+    - name: ウォークライ・ウェント
+      count: 1
+      section: main
+    - name: SPYRAL−ダンディ
+      count: 1
+      section: main
+    - name: 剛鬼マシン・スープレックス
+      count: 2
+      section: main
+    - name: H・C サウザンド・ブレード
+      count: 1
+      section: main
+    - name: 剣神官ムドラ
+      count: 1
+      section: main
+    - name: 巌征竜−レドックス
+      count: 1
+      section: main
+    - name: セリオンズ“キング”レギュラス
+      count: 1
+      section: main
+    - name: 楽天禍カルクラグラ
+      count: 1
+      section: main
+    - name: ジャイアント・メサイア
+      count: 1
+      section: main
+    - name: トリオンの蟲惑魔
+      count: 3
+      section: main
+    - name: スクラップ・ラプター
+      count: 2
+      section: main
+    - name: 原石竜アナザー・ベリル
+      count: 1
+      section: main
+    - name: ウォークライ・バシレオス
+      count: 1
+      section: main
+    - name: ペロペロケルペロス
+      count: 1
+      section: main
+    - name: サブテラーマリス・リグリアード
+      count: 1
+      section: main
+    - name: 千年の眠りから覚めし原人
+      count: 1
+      section: main
+    - name: 恐巄竜華－㟴巴
+      count: 1
+      section: main
+    - name: 蹴神−VARefar
+      count: 1
+      section: main
+    - name: 心変わり
+      count: 1
+      section: main
+    - name: 強欲な壺
+      count: 1
+      section: main
+    - name: 死者蘇生
+      count: 1
+      section: main
+    - name: 精神操作
+      count: 1
+      section: main
+    - name: 天使の施し
+      count: 2
+      section: main
+    - name: ブラック・ホール
+      count: 1
+      section: main
+    - name: 禁じられた聖冠
+      count: 1
+      section: main
+    - name: 原石の鳴獰
+      count: 1
+      section: main
+    - name: マジックカード「死者蘇生」
+      count: 1
+      section: main
+    - name: 共界神淵体
+      count: 1
+      section: main
+    - name: 早すぎた埋葬
+      count: 1
+      section: main
+    - name: 神の宣告
+      count: 1
+      section: main
+    - name: 神の警告
+      count: 1
+      section: main
+    - name: 激流葬
+      count: 2
+      section: main
+    - name: 聖なるバリア −ミラーフォース−
+      count: 1
+      section: main
+    - name: 業炎のバリア −ファイヤー・フォース−
+      count: 1
+      section: main
+    - name: 天龍雪獄
+      count: 1
+      section: main
+    - name: 心太砲式
+      count: 1
+      section: main
+    - name: 風魔の波動
+      count: 1
+      section: main
+    - name: 奈落の落とし穴
+      count: 2
+      section: main
+    - name: ロケットハンド
+      count: 1
+      section: main
+    - name: 王宮の弾圧
+      count: 1
+      section: main
+    - name: 闇の増産工場
+      count: 1
+      section: main
+    - name: リターナブル瓶
+      count: 1
+      section: main
+    - name: ナチュル・ビースト
+      count: 1
+      section: extra
+    - name: ゴヨウ・ガーディアン
+      count: 1
+      section: extra
+    - name: ナチュル・パルキオン
+      count: 1
+      section: extra
+    - name: 御影志士
+      count: 1
+      section: extra
+    - name: シトリスの蟲惑魔
+      count: 1
+      section: extra
+    - name: 旋壊のヴェスペネイト
+      count: 1
+      section: extra
+    initial_distribution:
+    - name: 大嵐
+      count: 6
+      section: main
+    - name: スクラップ・ドラゴン
+      count: 6
+      section: main
