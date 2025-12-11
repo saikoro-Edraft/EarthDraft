@@ -12,7 +12,7 @@ yaml_structure = {
         "cards": {
             "normal": [],
             "rare": [],
-            "initial_distribution": []
+            "initial_distribution": [],
         }
     }
 }
