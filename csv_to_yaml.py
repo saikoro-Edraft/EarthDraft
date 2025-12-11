@@ -12,8 +12,7 @@ yaml_structure = {
         "cards": {
             "normal": [],
             "rare": [],
-            "initial_distribution": [],
-            "card_format":[]
+            "initial_distribution": []
         }
     }
 }
@@ -49,7 +48,7 @@ for row in reader:
     # 対応するカテゴリのリストに追加
     target_key = category_map.get(rarity_jp)
     if target_key:
-        yaml_structure["pool"]["cards"]["format"][target_key].append(card_data)
+        yaml_structure["pool"]["cards"][target_key].append(card_data)
 
 # YAMLとして出力（日本語が文字化けしないように設定）
 output_yaml = yaml.dump(yaml_structure, allow_unicode=True, sort_keys=False)
