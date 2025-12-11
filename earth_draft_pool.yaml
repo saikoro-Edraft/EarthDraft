@@ -2,22 +2,22 @@ pool:
   version: '7.34'
   cards:
     normal:
-    - name: TG
+    - name: TG ストライカー
       count: 3
       section: main
-      format: OCG ストライカー
-    - name: 百鬼羅刹
+      format: OCG
+    - name: 百鬼羅刹 特攻ダグ
       count: 1
       section: main
-      format: OCG 特攻ダグ
+      format: OCG
     - name: 新鋭の女戦士
       count: 2
       section: main
       format: OCG
-    - name: XX－セイバー
+    - name: XX－セイバー フラムナイト
       count: 1
       section: main
-      format: OCG フラムナイト
+      format: OCG
     - name: ウォークライ・ガトス
       count: 3
       section: main
@@ -58,10 +58,10 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: H・C
+    - name: H・C エクストラ・ソード
       count: 1
       section: main
-      format: OCG エクストラ・ソード
+      format: OCG
     - name: ブルブレーダー
       count: 1
       section: main
@@ -178,10 +178,10 @@ pool:
       count: 1
       section: extra
       format: OCG
-    - name: X－セイバー
+    - name: X－セイバー ガトムズ
       count: 1
       section: extra
-      format: OCG ガトムズ
+      format: OCG
     - name: スクラップ・デスデーモン
       count: 2
       section: extra
@@ -194,10 +194,10 @@ pool:
       count: 1
       section: extra
       format: OCG
-    - name: 総剣司令
+    - name: 総剣司令 ソウザ
       count: 1
       section: extra
-      format: OCG ソウザ
+      format: OCG
     - name: 呪雷神ジュラ
       count: 1
       section: extra
@@ -238,10 +238,10 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: 岩の精霊
+    - name: 岩の精霊 タイタン
       count: 2
       section: main
-      format: OCG タイタン
+      format: OCG
     - name: ギガンテス
       count: 1
       section: main
@@ -282,10 +282,10 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: フォッシル・ダイナ
+    - name: フォッシル・ダイナ パキケファロ
       count: 1
       section: main
-      format: OCG パキケファロ
+      format: OCG
     - name: 磁石の戦士Ω＋
       count: 1
       section: main
@@ -294,10 +294,10 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: 地球巨人
+    - name: 地球巨人 ガイア・プレート
       count: 1
       section: main
-      format: OCG ガイア・プレート
+      format: OCG
     - name: EMチェーンジラフ
       count: 1
       section: main
@@ -306,10 +306,10 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: X－セイバー
+    - name: X－セイバー エアベルン
       count: 3
       section: main
-      format: OCG エアベルン
+      format: OCG
     - name: 極星獣タングリスニ
       count: 1
       section: main
@@ -334,18 +334,18 @@ pool:
       count: 2
       section: main
       format: OCG
-    - name: TG
+    - name: TG ラッシュ・ライノ
       count: 2
       section: main
-      format: OCG ラッシュ・ライノ
+      format: OCG
     - name: レスキューキャット
       count: 2
       section: main
       format: OCG
-    - name: 百戦王
+    - name: 百戦王 ベヒーモス
       count: 1
       section: main
-      format: OCG ベヒーモス
+      format: OCG
     - name: 銀嶺の巨神
       count: 2
       section: extra
@@ -366,30 +366,30 @@ pool:
       count: 1
       section: extra
       format: OCG
-    - name: ギアギガント
+    - name: ギアギガント X
       count: 1
       section: extra
-      format: OCG X
+      format: OCG
     - name: ジェムナイト・パール
       count: 1
       section: extra
       format: OCG
-    - name: 恐牙狼
+    - name: 恐牙狼 ダイヤウルフ
       count: 1
       section: extra
-      format: OCG ダイヤウルフ
-    - name: 'No'
+      format: OCG
+    - name: No.52 ダイヤモンド・クラブ・キング
       count: 1
       section: extra
-      format: OCG.52 ダイヤモンド・クラブ・キング
-    - name: 'No'
+      format: OCG
+    - name: No.55 ゴゴゴゴライアス
       count: 1
       section: extra
-      format: OCG.55 ゴゴゴゴライアス
-    - name: 'No'
+      format: OCG
+    - name: No.82 ハートランドラコ
       count: 1
       section: extra
-      format: OCG.82 ハートランドラコ
+      format: OCG
     - name: 塊斬機ラプラシアン
       count: 1
       section: extra
@@ -402,10 +402,10 @@ pool:
       count: 2
       section: main
       format: OCG
-    - name: K９－ØØ号
+    - name: K９－ØØ号 ルプス
       count: 1
       section: main
-      format: OCG ルプス
+      format: OCG
     - name: 神獣王バルバロス
       count: 1
       section: main
@@ -418,10 +418,10 @@ pool:
       count: 3
       section: main
       format: OCG
-    - name: X－セイバー
+    - name: X－セイバー ブルノ
       count: 2
       section: main
-      format: OCG ブルノ
+      format: OCG
     - name: お注射天使リリー
       count: 1
       section: main
@@ -442,10 +442,10 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: G戦隊
+    - name: G戦隊 シャインブラック
       count: 1
       section: main
-      format: OCG シャインブラック
+      format: OCG
     - name: キノの蟲惑魔
       count: 1
       section: main
@@ -546,10 +546,10 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: 空牙団の懐剣
+    - name: 空牙団の懐剣 ドナ
       count: 1
       section: extra
-      format: OCG ドナ
+      format: OCG
     - name: トロイメア・ケルベロス
       count: 1
       section: extra
@@ -626,10 +626,10 @@ pool:
       count: 2
       section: main
       format: OCG
-    - name: The
+    - name: The Legend of Tickets
       count: 1
       section: main
-      format: OCG Legend of Tickets
+      format: OCG
     - name: 同胞の絆
       count: 1
       section: main
@@ -963,10 +963,10 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: 春化精の女神
+    - name: 春化精の女神 ヴェーラ
       count: 1
       section: main
-      format: OCG ヴェーラ
+      format: OCG
     - name: ウォークライ・ウェント
       count: 1
       section: main
@@ -979,10 +979,10 @@ pool:
       count: 2
       section: main
       format: OCG
-    - name: H・C
+    - name: H・C サウザンド・ブレード
       count: 1
       section: main
-      format: OCG サウザンド・ブレード
+      format: OCG
     - name: 剣神官ムドラ
       count: 1
       section: main
@@ -1095,14 +1095,14 @@ pool:
       count: 2
       section: main
       format: OCG
-    - name: 聖なるバリア
+    - name: 聖なるバリア −ミラーフォース−
       count: 1
       section: main
-      format: OCG −ミラーフォース−
-    - name: 業炎のバリア
+      format: OCG
+    - name: 業炎のバリア −ファイヤー・フォース−
       count: 1
       section: main
-      format: OCG −ファイヤー・フォース−
+      format: OCG
     - name: 天龍雪獄
       count: 1
       section: main
