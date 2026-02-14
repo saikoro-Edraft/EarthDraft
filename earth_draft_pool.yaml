@@ -1,5 +1,5 @@
 pool:
-  version: '7.35'
+  version: '7.36'
   cards:
     normal:
     - name: H・C サウザンド・ブレード
@@ -110,16 +110,16 @@ pool:
       count: 3
       section: main
       format: OCG
-    - name: 機皇兵グランエル・アイン
-      count: 1
-      section: main
-      format: OCG
     - name: 豪腕特急トロッコロッコ
       count: 1
       section: main
       format: OCG
     - name: 爆走軌道フライング・ペガサス
       count: 2
+      section: main
+      format: OCG
+    - name: コンベックス・ナイト
+      count: 1
       section: main
       format: OCG
     - name: マシンナーズ・ギアフレーム
@@ -650,7 +650,7 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: ハリケーン
+    - name: 憑依共鳴
       count: 1
       section: main
       format: OCG
@@ -666,11 +666,11 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: リターン・オブ・ザ・デュエリスト
+    - name: エネミーコントローラー
       count: 1
       section: main
       format: OCG
-    - name: エネミーコントローラー
+    - name: 月の書
       count: 1
       section: main
       format: OCG
@@ -770,14 +770,14 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: 闇の護封剣
-      count: 1
-      section: main
-      format: OCG
     - name: メイドの土産
       count: 1
       section: main
       format: RUSH
+    - name: アームズコール
+      count: 1
+      section: main
+      format: OCG
     - name: 因果切断
       count: 1
       section: main
@@ -979,10 +979,6 @@ pool:
       count: 2
       section: main
       format: OCG
-    - name: 転輪のスフィンクス
-      count: 1
-      section: main
-      format: OCG
     - name: 剣神官ムドラ
       count: 1
       section: main
@@ -1036,6 +1032,10 @@ pool:
       section: main
       format: OCG
     - name: 蹴神−VARefar
+      count: 1
+      section: main
+      format: OCG
+    - name: ハリケーン
       count: 1
       section: main
       format: OCG

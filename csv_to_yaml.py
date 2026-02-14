@@ -8,7 +8,7 @@ with open("earth_draft_pool.csv", "r", encoding="utf-8") as csv_file:
 # データの入れ物を作成
 yaml_structure = {
     "pool": {
-        "version": "7.35",
+        "version": "7.36",
         "cards": {
             "normal": [],
             "rare": [],
