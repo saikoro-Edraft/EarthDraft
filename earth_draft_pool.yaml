@@ -1,7 +1,11 @@
 pool:
-  version: '7.34'
+  version: '7.35'
   cards:
     normal:
+    - name: H・C サウザンド・ブレード
+      count: 1
+      section: main
+      format: OCG
     - name: TG ストライカー
       count: 3
       section: main
@@ -706,10 +710,6 @@ pool:
       count: 1
       section: main
       format: OCG
-    - name: 月の書
-      count: 1
-      section: main
-      format: OCG
     - name: 超獸の咆哮
       count: 1
       section: main
@@ -979,7 +979,7 @@ pool:
       count: 2
       section: main
       format: OCG
-    - name: H・C サウザンド・ブレード
+    - name: 転輪のスフィンクス
       count: 1
       section: main
       format: OCG
